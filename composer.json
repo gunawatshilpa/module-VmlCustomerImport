@@ -1,5 +1,5 @@
 {
-    "name": "vmlmodule/module-customerimport",
+    "name": "gunawats/module-customerimport",
     "description": "Customer Import via CSV & JSON",
     "type": "magento2-module",
     "minimum-stability": "dev",
