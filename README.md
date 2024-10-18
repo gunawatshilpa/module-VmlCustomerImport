@@ -21,7 +21,7 @@ Customer Import
 
 ### Type 2: Composer
 
- - Install the module composer by running `composer require vml/module-customerimport:dev-main`
+ - Install the module composer by running `composer require  gunawats/module-customerimport:dev-main`
  - enable the module by running `php bin/magento module:enable Vml_CustomerImport`
  - apply database updates by running `php bin/magento setup:upgrade`
  - Flush the cache by running `php bin/magento cache:flush`
