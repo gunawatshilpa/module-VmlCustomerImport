@@ -14,10 +14,9 @@
 	    "type": "package",
 	    "package": {
 	        "name": "gunawats/module-customerimport",
-	        "version": "1.0.0",
 	        "source": {
 	           "type": "vcs",
-               "url": "https://github.com/gunawatshilpa/module-VmlCustomerImport.git"
+               	   "url": "https://github.com/gunawatshilpa/module-VmlCustomerImport.git",
 	           "reference": "main"
 	        }
 	    }
