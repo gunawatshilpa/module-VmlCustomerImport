@@ -1,0 +1,22 @@
+{
+    "name": "vml/module-CustomerImport",
+    "description": "Customer Import via CSV & JSON",
+    "type": "magento2-module",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    },
+    "repositories": {
+            "type": "vcs",
+            "url": "https://github.com/gunawatshilpa/module-VmlCustomerImport.git"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Vml\\CustomerImport\\": ""
+        }
+    }
+}
