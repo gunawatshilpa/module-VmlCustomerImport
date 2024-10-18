@@ -1,5 +1,5 @@
 {
-    "name": "vml/module-customerimport",
+    "name": "vmlmodule/module-customerimport",
     "description": "Customer Import via CSV & JSON",
     "type": "magento2-module",
     "minimum-stability": "dev",
